@@ -3,7 +3,7 @@
 A **responsive blog platform** where users can browse, filter, and paginate through blogs. The platform supports **infinite scrolling, category-based filtering**, and **a modern, responsive UI**.  
 
 ## 🚀 Live Demo  
-🔗 [View Live Project](YOUR_VERCEL_LIVE_LINK_HERE)  
+🔗 [View Live Project](https://blog-iota-sand-83.vercel.app/)  
 
 ## 📌 Features  
 - ✅ Fetches and displays blogs dynamically from an API.  
